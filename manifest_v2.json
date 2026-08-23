@@ -1,0 +1,28 @@
+{
+  "item": {
+    "id": "979860789498",
+    "restype": "watchface",
+    "name": "炫彩眼眸二次元少女",
+    "description": "这款小米手环简约动漫风表盘，以氛围感二次元少女插画为主视觉，搭配醒目时间文字与月份标识；保留原画面光影彩光点缀，黑白基调突出炫彩眼眸细节，支持清晰读时，风格精致治愈，适配手环屏幕显示。",
+    "preview": [
+      "media/5003.jpg",
+      "media/4999.png"
+    ],
+    "icon": "media/5265.png",
+    "cover": "media/5271.png",
+    "author": [
+      {
+        "name": "TapTapt",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb9p": {
+      "version": "1.0",
+      "file_name": "downloads/炫彩眼眸二次元少女9P.bin"
+    }
+  },
+  "ext": {}
+}
